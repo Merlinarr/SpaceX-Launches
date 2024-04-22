@@ -22,7 +22,7 @@ Welcome to the SpaceX Mission Dashboard! This React-based web application provid
 Clone the repository and install the dependencies to set up the project locally:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Merlinarr/SpaceX-Launches.git
 cd spacex-react
 yarn install
 
